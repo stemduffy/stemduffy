@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @stemduffy
-- 👀 I’m interested in software development, chess and badminton.
+Hi, I’m Stephen Duffy
+- 👀 I work as Lead Developer at PayStream with a very talented team. 
 - 🌱 I’m currently learning more about architechtural patterns.
 - 💞️ I’m looking to collaborate on fun projects like games and mobile apps.
 - 📫 How to reach me - stemduffy@gmail.com
